@@ -1,4 +1,4 @@
-  <!-- Profile Header -->
+<!-- Profile Header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,55:232F3E,100:FF9900&text=Mohamed%20Ayoub%20Eleuch&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%C2%B7%20AWS%20CLOUD%20FOCUS&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Mohamed Ayoub Eleuch">
@@ -22,16 +22,22 @@ Building **real-time products**, **secure systems**, and **reliable cloud deploy
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/bf28a394350a4fa78cddb8074385b3aa" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="125" alt="AWS Certified AI Practitioner">
 <br><strong>AI Practitioner</strong>
+</a>
 </td>
 <td align="center" valign="top" width="33%">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/48bd846c58b24187bf0c52a1f8f6d26e" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="125" alt="AWS Certified Cloud Practitioner">
 <br><strong>Cloud Practitioner</strong>
+</a>
 </td>
 <td align="center" valign="top" width="33%">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/1d97eb72b7df404e9c5d21cbe2d38e58" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="125" alt="AWS Certified Solutions Architect Associate">
 <br><strong>Solutions Architect</strong>
+</a>
 </td>
 </tr>
 </table>
