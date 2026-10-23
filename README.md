@@ -32,17 +32,21 @@ An AI-assisted collaborative canvas experiment. I directed product behavior, arc
 
 C++ solutions covering graphs, dynamic programming, DSU, and shortest paths, plus [Tetris](https://github.com/AyoubElleuch/Tetris-in-C-) and [operating systems labs](https://github.com/AyoubElleuch/Operating_Systems).
 
-## 02 / Toolbox
+## 02 / Open source
+
+Two merged contributions to [REA](https://github.com/morluto/rea), a reverse engineering toolkit: [Unicode output handling in the Cutter bridge](https://github.com/morluto/rea/pull/3776) and [structured artifact validation diagnostics](https://github.com/morluto/rea/pull/6361).
+
+## 03 / Toolbox
 
 `AWS` `Terraform` `Docker` `GitHub Actions` `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `C++`
 
-## 03 / Experience
+## 04 / Experience
 
 - **2025–2026** · Full-Stack Engineering Intern, **GBI Logistics** — Next.js/SQL applications and CI/CD.
 - **2023–2024** · Front-End Developer, **Innopolis University (AES)** — Vue.js dashboards connected to backend services for ML research.
 - **2018–present** · Freelance Web Developer — Intermittent paid client projects, including websites and a full-stack CRM. [More →](https://www.mohamedayoubeleuch.com/experience)
 
-## 04 / Credentials
+## 05 / Credentials
 
 **AWS:** [Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/1d97eb72b7df404e9c5d21cbe2d38e58) · [AI Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/bf28a394350a4fa78cddb8074385b3aa) · [Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/48bd846c58b24187bf0c52a1f8f6d26e)
 
