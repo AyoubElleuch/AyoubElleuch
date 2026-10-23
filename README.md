@@ -26,6 +26,8 @@ A React/TypeScript task manager with Cognito authentication, Lambda APIs, Dynamo
 
 An AI-assisted collaborative canvas experiment. I directed product behavior, architecture, and behavioral testing; AI wrote the application code.
 
+**Open source attribution:** [XERJ](https://github.com/xerj-org/xerj) credits my NovaStage work on AWS topology layout and obstacle-aware routing in its [proposed Corpus Hub contributor registry](https://github.com/xerj-org/xerj/blob/hub-authors/contributions-20261022/tools/xerj-code/hub/candidates/authors/CONTRIBUTORS.md#L1033). [Inclusion is pending merge](https://github.com/xerj-org/xerj/pull/2171).
+
 **[Competitive Programming / C++](https://github.com/AyoubElleuch/Competitive-Programming-Solutions)** · [Solutions archive](https://www.mohamedayoubeleuch.com/cpp-solutions)
 
 C++ solutions covering graphs, dynamic programming, DSU, and shortest paths, plus [Tetris](https://github.com/AyoubElleuch/Tetris-in-C-) and [operating systems labs](https://github.com/AyoubElleuch/Operating_Systems).
