@@ -1,14 +1,14 @@
 ```text
 +--[ ayoub@github:~ ]-------------------------------------------+
-| MOHAMED AYOUB ELEUCH                                         |
-| SOFTWARE ENGINEER | AWS CLOUD                               |
+| MOHAMED AYOUB ELEUCH                                          |
+| SOFTWARE ENGINEER | AWS CLOUD                                 |
 | TYPESCRIPT / NODE.JS / POSTGRESQL / AWS / TERRAFORM / C++     |
-+-------------------------------------------------------------+
++---------------------------------------------------------------+
 ```
 
 I’m a full-stack software engineer. I build React applications and TypeScript APIs, design access controls in PostgreSQL, and deploy serverless systems on AWS with Terraform.
 
-[**Portfolio**](https://www.mohamedayoubeleuch.com/) · [**LeetCode**](https://leetcode.com/u/ayoubelleuch/) · [**Email**](mailto:mmdayoub3@gmail.com)
+[**Portfolio**](https://www.mohamedayoubeleuch.com/) · [**Credly**](https://www.credly.com/users/mohamed-ayoub-eleuch/badges) · [**LeetCode**](https://leetcode.com/u/ayoubelleuch/) · [**Email**](mailto:mmdayoub3@gmail.com)
 
 ## 01 / Featured Systems
 
@@ -40,5 +40,6 @@ Teams plan releases and draw **AWS and Google Cloud diagrams** on one canvas. Po
 ## 04 / Credentials
 
 - **3× AWS Certified** · [Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/1d97eb72b7df404e9c5d21cbe2d38e58) · [AI Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/bf28a394350a4fa78cddb8074385b3aa) · [Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/48bd846c58b24187bf0c52a1f8f6d26e)
+- **Google Data Analytics Professional Certificate** · [Verify on Credly](https://www.credly.com/badges/a78b4b35-a196-44be-a693-cbfc6be4ace1/public_url)
 - **B.S. in Computer Science**, University of the People, expected **June–August 2027**. Previously completed four semesters at Innopolis University on a full merit scholarship.
 - **2022 Tunisian Olympiad in Programming national finalist.** Competed in multiple hackathons. [75 C++ solutions and 66 algorithm write-ups](https://www.mohamedayoubeleuch.com/cpp-solutions)
